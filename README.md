@@ -3,6 +3,6 @@ A Python 3 script to convert VectorNTI type primer archives to a Benchling-impor
 
 Just run 
 
->>> python main.py 
+> python main.py 
 
 and complete the input. Paste the result to Benchling's oligo import form.
